@@ -12,6 +12,7 @@
         "fideloper/proxy": "^4.0",
         "intervention/image": "^2.5",
         "laravel/framework": "^6.2",
+        "laravel/telescope": "v3.5.1",
         "laravel/tinker": "^2.0",
         "mews/captcha": "~3.0",
         "overtrue/laravel-lang": "~3.0",
